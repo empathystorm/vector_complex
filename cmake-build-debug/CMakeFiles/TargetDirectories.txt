@@ -1,0 +1,3 @@
+/home/empathy/Documents/Bonch/3 семестр/ООП/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+/home/empathy/Documents/Bonch/3 семестр/ООП/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/empathy/Documents/Bonch/3 семестр/ООП/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
