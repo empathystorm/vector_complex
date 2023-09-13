@@ -26,7 +26,7 @@ public:
     //получение размера вектора
     [[nodiscard]] unsigned get_size() const;
     //вычисление скалярного произведения векторов
-    int operator*(const Vector&) const;
+    double operator*(const Vector&) const;
     //вычисление длины вектора
     [[nodiscard]] double lenght() const;
     ~Vector();

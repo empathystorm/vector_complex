@@ -86,9 +86,9 @@ unsigned Vector::get_size() const {
     return size;
 }
 
-int Vector::operator*(const Vector& other) const {
+double Vector::operator*(const Vector& other) const {
     if (size == other.size) {
-        int scalar = 0;
+        double scalar = 0;
         for (unsigned i = 0; i < size; i++) {
             scalar += data[i] * other.data[i];
         }
